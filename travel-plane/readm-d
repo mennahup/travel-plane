@@ -1,5 +1,9 @@
 int main()
 { int x;
-scanf("%d",x);
-printf("i miss you"):
+while (x<10)
+{
+ scanf("%d",x);
+ printf("i miss you"):
+ x=x+1;
+}
 }
